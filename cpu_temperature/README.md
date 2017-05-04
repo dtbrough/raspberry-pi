@@ -1,3 +1,3 @@
-cpu_temperature.py
+cpu_temperature.sh
 
-A script to display the current temperature of the raspbery pi cpu/gpu. Tested on rpi2 and rpi3.
+A bash script to display the current temperature of the raspbery pi cpu/gpu. Tested on rpi2 and rpi3.
